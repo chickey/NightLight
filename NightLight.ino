@@ -22,8 +22,8 @@
 const unsigned int nLEDs = 15;  // number of LED's in the strip
 const unsigned int dataPin = D2; // pin connecting the LED data pin to the Arduino
 
-const char* ssid = "chickey-house";
-const char* password = "adamjoeollie";
+const char* ssid = "SSID";
+const char* password = "password";
 
 ESP8266WebServer server(80);
 
